@@ -1,6 +1,4 @@
 import tkinter as tk
-from PIL import Image, ImageTk
-import tkinter.messagebox
 
 # 创建一些需要全局使用的量
 isSelect = select1 = select2 = False
